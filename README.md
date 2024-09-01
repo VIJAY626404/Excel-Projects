@@ -23,7 +23,7 @@ Dive into the world of coffee shop sales with this detailed analysis. This proje
 
 - **[Coffee Shop Sales Analysis](https://github.com/VIJAY626404/Excel-Projects/tree/main/Coffe%20Shop%20Sales)**
 
-  ![Coffee Shop Sales Analysis](https://github.com/VIJAY626404/Excel-Projects/blob/main/Coffe%20Shop%20Sales/Results/dashboard%20output.png ,)
+  ![Coffee Shop Sales Analysis](https://github.com/VIJAY626404/Excel-Projects/blob/main/Coffe%20Shop%20Sales/Results/dashboard%20output.png )
 
   - **Key Features:**
     - ☕ **Sales Trends:** Visualize sales trends and understand customer preferences.
@@ -42,7 +42,7 @@ If you have any feedback or suggestions, feel free to open an issue or submit a 
 
 ## 📢 Stay Connected
 
-- [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/vijay-kumar-shah-a47b0920a)
+- [LinkedIn](https://linkedin.com/in/vijay-kumar-shah-a47b0920a)
 - [GitHub](https://github.com/VIJAY626404)
 
 Thank you for visiting my projects. Enjoy exploring the dashboards! 🎉
